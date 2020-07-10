@@ -5,9 +5,11 @@ Linux shell using system calls for OS course project
 
 #### `gcc thread.c`
 
-A couple of warnings might be displayed depending on the gcc version installed on your machine. You may ignore the warnings.
+A couple of warnings might be displayed depending on the gcc version installed on your machine. 
 
-A executable file will be formed in your folder
+You may ignore the warnings.
+
+A executable file *a.out* will be formed in your folder
 
 ### To run the shell, run:
 
@@ -20,3 +22,9 @@ A executable file will be formed in your folder
 * cat thread.c
 * cat thread.c | wc
 * cat thread.c | wc -l | cat > hi.txt
+
+### Miscellaneous 
+
+* Refer to Assignment-Question.pdf for understanding the primary objectives of the shell project.
+
+* Refer to Documentation.pdf for explanation of the working.
