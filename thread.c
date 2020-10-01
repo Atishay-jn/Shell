@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
-
+// threads
 char* remove_space(char *input) {
 	int flag = 0;
 	int k=0;
