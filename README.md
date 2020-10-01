@@ -1,5 +1,5 @@
 # Shell
-Linux shell using system calls for OS course project
+Linux shell using native system calls for Operating Systems course project
 
 ### To compile the shell, in the project directory run:
 
